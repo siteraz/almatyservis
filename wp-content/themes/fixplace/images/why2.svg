@@ -1,0 +1,68 @@
+<svg id="Group_120" data-name="Group 120" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.456" height="74.457" viewBox="0 0 96.456 74.457">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-10);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.725" y1="0.072" x2="0.223" y2="0.922" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#50f29c"/>
+      <stop offset="1" stop-color="#00bddb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="2.032" y1="-1.493" x2="-5.905" y2="8.832" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="6.964" y1="-7.91" x2="-0.973" y2="2.416" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="2.407" y1="-4.174" x2="-3.376" y2="9.999" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.902" y1="-0.874" x2="-0.272" y2="2.481" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="1.487" y1="-7.639" x2="-0.231" y2="6.534" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="3.947" y1="-9.436" x2="-0.97" y2="4.738" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="1.363" y1="-10.581" x2="0.259" y2="3.592" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="2.337" y1="-11.088" x2="0.09" y2="3.085" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="3.061" y1="-12.935" x2="0.359" y2="1.239" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="Path_83" data-name="Path 83" class="cls-1" d="M343.856,136.228A37.13,37.13,0,0,0,312.6,153.217a2.231,2.231,0,1,0,3.743,2.429,32.765,32.765,0,1,1-1.543,32.977,2.231,2.231,0,1,0-3.954,2.069,37.232,37.232,0,1,0,33.007-54.464Z" transform="translate(-284.629 -136.228)"/>
+  <path id="Path_84" data-name="Path 84" class="cls-2" d="M335.918,145.735v-1.663a2.231,2.231,0,1,0-4.463,0v1.663a2.231,2.231,0,0,0,4.463,0Z" transform="translate(-274.459 -133.492)"/>
+  <path id="Path_85" data-name="Path 85" class="cls-3" d="M331.455,178.781v1.663a2.231,2.231,0,1,0,4.463,0v-1.663a2.231,2.231,0,0,0-4.463,0Z" transform="translate(-274.459 -116.57)"/>
+  <path id="Path_86" data-name="Path 86" class="cls-4" d="M350.482,164.218h1.662a2.231,2.231,0,0,0,0-4.463h-1.662a2.231,2.231,0,0,0,0,4.463Z" transform="translate(-266.27 -124.758)"/>
+  <path id="Path_87" data-name="Path 87" class="cls-5" d="M325.751,156.717a2.229,2.229,0,0,0,.152,3.151l9.348,8.486a2.23,2.23,0,0,0,2.972.025l16.373-14.39a2.231,2.231,0,1,0-2.945-3.353L336.775,163.71l-7.874-7.146A2.23,2.23,0,0,0,325.751,156.717Z" transform="translate(-277.522 -129.474)"/>
+  <path id="Path_88" data-name="Path 88" class="cls-6" d="M308.605,157.151h16.153a2.231,2.231,0,0,0,0-4.463H308.605a2.231,2.231,0,1,0,0,4.463Z" transform="translate(-286.686 -128.203)"/>
+  <path id="Path_89" data-name="Path 89" class="cls-7" d="M300.472,157.151h2.742a2.231,2.231,0,1,0,0-4.463h-2.742a2.231,2.231,0,1,0,0,4.463Z" transform="translate(-290.652 -128.203)"/>
+  <path id="Path_90" data-name="Path 90" class="cls-8" d="M322.989,163.49a2.231,2.231,0,0,0,0-4.463H295.37a2.231,2.231,0,0,0,0,4.463Z" transform="translate(-293.139 -125.113)"/>
+  <path id="Path_91" data-name="Path 91" class="cls-9" d="M322.142,167.6a2.232,2.232,0,0,0-2.231-2.231H308.605a2.231,2.231,0,1,0,0,4.463h11.305A2.232,2.232,0,0,0,322.142,167.6Z" transform="translate(-286.686 -122.022)"/>
+  <path id="Path_92" data-name="Path 92" class="cls-10" d="M305.149,165.366H296.5a2.231,2.231,0,0,0,0,4.463h8.646a2.231,2.231,0,1,0,0-4.463Z" transform="translate(-292.587 -122.022)"/>
+</svg>

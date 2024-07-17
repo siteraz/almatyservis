@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="983.989" height="1003.441" viewBox="0 0 983.989 1003.441">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#50f29c"/>
+      <stop offset="1" stop-color="#00bddb" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.878" y1="0.085" x2="-0.04" y2="1.087" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#50f29c"/>
+      <stop offset="1" stop-color="#00bddb"/>
+    </linearGradient>
+  </defs>
+  <g id="цвет" transform="matrix(0.839, -0.545, 0.545, 0.839, -562.571, 412.662)">
+    <path id="Path_100" data-name="Path 100" class="cls-1" d="M355.533,61.57c120.22,95.108,262.316,38.451,309.1,103.1C687.7,196.553,756.757,340.982,698.3,479.187c-77.338,182.847-310.213,234.64-383.779,138.751C185.233,449.416-2.523,590.806.026,401.331S96.994-142.964,355.533,61.57Z" transform="matrix(0.208, 0.978, -0.978, 0.208, 1081.529, 237.827)"/>
+    <path id="Path_101" data-name="Path 101" class="cls-2" d="M331.968,61.31c60.195,43.844,219.077,39.716,299.662,108.1,89.846,76.243,97.19,226.16,67.326,293.651C623.986,632.494,384.14,674.488,305.2,582.388,166.464,420.526,176.721,475.18,48.359,337.971S58.283-138.032,331.968,61.31Z" transform="matrix(0.966, -0.259, 0.259, 0.966, 407.276, 405.775)"/>
+  </g>
+</svg>
